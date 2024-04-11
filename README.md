@@ -1,4 +1,4 @@
-# babycrypto 🍼
+# 🍼 babycrypto
 
 - [ ] ElGamal
 - [ ] secp256k1
